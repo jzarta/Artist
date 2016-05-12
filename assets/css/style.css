@@ -1,9 +1,22 @@
 
 .artist-input{
 	margin-bottom: 25px;
+	
 }
+
+body{
+	background-color: #E63946;
+
+}
+
 h1{
-	font-size: 35;
-	font-color: blue;
+	font-size: 65;
+	color: #FDFFFC;
+}
+label{
+	color: #FDFFFC;
+}
+#Submit{
+	color: #FDFFFC;
 }
 
