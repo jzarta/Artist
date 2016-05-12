@@ -6,7 +6,6 @@
 
 body{
 	background-color: #E63946;
-
 }
 
 h1{
@@ -16,7 +15,7 @@ h1{
 label{
 	color: #FDFFFC;
 }
-#Submit{
-	color: #FDFFFC;
+#addartist{
+	color: #E63946;
 }
 
